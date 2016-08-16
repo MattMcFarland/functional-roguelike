@@ -1,0 +1,19 @@
+{
+  "name": "functional-roguelike",
+  "version": "0.0.0",
+  "description": "roguelike made with functional programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard src | snazzy"
+  },
+  "keywords": ["demo", "roguelike", "game", "functional", "fp"],
+  "author": "Matt McFarland",
+  "license": "MIT",
+  "devDependencies": {
+    "snazzy": "^4.0.1",
+    "standard": "^7.1.2"
+  },
+  "dependencies": {
+    "chance": "^1.0.4"
+  }
+}
